@@ -4,8 +4,8 @@
         <title>日本改編童話故事</title>
         <meta charset="utf-8">
         <body>
-          <embed src="繪本_(1)-已壓縮-已壓縮_compressed_(1).pdf" width="600" height="600">
-        <footer>江佳霓．林琍琪．王巧蓉 共同製作</footer>    
+        <iframe src=”http://docs.google.com/gview?url=pdf http://koukagei.github.io/繪本_(1)-已壓縮-已壓縮_compressed_(1).pdf&embedded=true” style=”width:600px; height:500px;” frameborder=”0″></iframe>
+        <footer>江佳霓．林琍琪．王巧蓉 共同製作</footer>     
         </body>
 
 </html>
