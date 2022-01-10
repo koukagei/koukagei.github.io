@@ -4,16 +4,8 @@
         <title>日本改編童話故事</title>
         <meta charset="utf-8">
         <body>
-           <A HREF="https://drive.google.com/file/d/1IbCEH1v85xVg2exPDG45cDfxCWZQe0yB/view?usp=sharing">
+          <embed src="繪本_(1)-已壓縮-已壓縮_compressed_(1).pdf" width="600" height="600">
         <footer>江佳霓．林琍琪．王巧蓉 共同製作</footer>    
         </body>
-        <script type="text/javascript" src="scripts/pdfobject/pdfobject.js"></script>
-<script type="text/javascript">
-window.onload = function (){
-var success = new PDFObject({ url: "pdf/CGVET22-08-2011V2P.pdf" ,pdfOpenParams: { scrollbars: ‘0‘, toolbar: ‘0‘, statusbar: ‘0‘}}).embed("pdf1");
-};
-</script>
 
-<div id="pdf1" style="width:700px; height:600px;">It appears you don‘t have Adobe Reader or PDF support in this web browser. <a href="~/pdf/CGVET22-08-2011V2P.pdf">Click here to download the PDF</a></div>
-  
 </html>
